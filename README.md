@@ -67,4 +67,5 @@ Greedy strategy ensures optimal solution
 
 This solution efficiently finds the best profit using a simple and optimized approach. It’s a classic problem to understand greedy algorithms and array traversal techniques.
 
-If you want, I can also:
+Author 
+Sanjeev Sharma
